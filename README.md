@@ -35,9 +35,11 @@
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
     </a>
+    <p align="left">
     <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/XAMPP_logo.svg" alt="XAMPP Server" width="40" height="40"/>
+        <img src="https://www.apachefriends.org/images/xampp-logo.svg" alt="XAMPP Server" width="40" height="40"/>
     </a>
+</p>
 
 
 </p> 
