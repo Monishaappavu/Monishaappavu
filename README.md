@@ -35,6 +35,13 @@
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
     </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    </a>
+    <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/XAMPP_Logo.svg" alt="XAMPP Server" width="40" height="40"/>
+    </a>
+
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monishaappavu&show_icons=true&locale=en&layout=compact" alt="monishaappavu" /></p>
